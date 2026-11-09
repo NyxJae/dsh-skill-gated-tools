@@ -1,0 +1,5 @@
+# Insert the Skill Gate host row. The browser half ships as a separate client
+# bundle and occupies its own Settings section; this row is the Host half.
+- insert:
+    - id: skill-gate
+      name: 'dsh-skill-gated-tools'
