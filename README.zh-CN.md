@@ -185,6 +185,10 @@ pnpm test:artifact
 
 产物测试通过真实 DSH 服务检查构建后的 Host 入口。界面开发使用独立 DSH Web Host 与隔离的 home、profile、测试数据。
 
+## 社区
+
+认可并感谢 [LINUX DO](https://linux.do/) 社区对开源交流与分享的支持。
+
 ## 许可证
 
 [MIT](LICENSE)。上游代码与截图中第三方素材的许可说明见[第三方声明](THIRD_PARTY_NOTICES.md)。

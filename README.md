@@ -185,6 +185,10 @@ pnpm test:artifact
 
 Artifact tests load the built Host entry against real DSH services. Use an isolated DSH Web Host with a separate home, profile and fixture data for UI work.
 
+## Community
+
+We recognize and appreciate the [LINUX DO](https://linux.do/) community for supporting open-source sharing and discussion.
+
 ## License
 
 [MIT](LICENSE). See [third-party notices](THIRD_PARTY_NOTICES.md) for upstream code and assets shown in screenshots.
